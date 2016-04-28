@@ -1,2 +1,2 @@
 # Arduino
-Sample code form Shaan
+Sample code from Shaan
